@@ -17,14 +17,14 @@
   "prefer-stable": true,
   "require": {
     "ext-json": "*",
-    "jms/serializer": "^1.14",
+    "jms/serializer": "^3.2",
     "guzzlehttp/guzzle": "^7.0",
     "alcohol/iso4217": "^3.1",
     "league/iso3166": "^2.1"
   },
   "config": {
     "platform": {
-      "php": "5.6"
+      "php": "^8"
     }
   },
   "require-dev": {
