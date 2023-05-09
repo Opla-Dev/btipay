@@ -17,7 +17,7 @@
   "prefer-stable": true,
   "require": {
     "ext-json": "*",
-    "jms/serializer": "^3.2",
+    "jms/serializer": "^3.23",
     "guzzlehttp/guzzle": "^7.0",
     "alcohol/iso4217": "^4.1",
     "league/iso3166": "^4.2"
